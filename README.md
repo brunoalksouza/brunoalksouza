@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=brunoalksouza&show_icons=true&count_private=true
+[![Bruno Souza's github stats](https://github-readme-stats.vercel.app/api?username=brunoalksouza&show_icons=true&count_private=true)](https://github.com/brunoalksouza)
 
 <!--
 **brunoalksouza/brunoalksouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
