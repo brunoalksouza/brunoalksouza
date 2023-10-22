@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno Souza 👋
+## Hi! I'm Bruno Souza 👋
 
 <div align="center">
   <a href="https://github.com/brunoalksouza">
