@@ -1,5 +1,3 @@
-## Hi! I'm Bruno Souza 👋
-
 <div align="center">
   <a href="https://github.com/brunoalksouza">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoalksouza&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>&nbsp&nbsp&nbsp
